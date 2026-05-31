@@ -1,2 +1,2 @@
-#SmartTecnoHouse
+# SmartTecnoHouse
 Proyecto Smart TecnoHouse - Programación Orientada a Objetos
