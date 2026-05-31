@@ -1,0 +1,29 @@
+{
+  "actuadores": [
+    {
+      "id": "bulb",
+      "nombre": "Bombilla inteligente",
+      "estado": "OFF"
+    },
+    {
+      "id": "fan",
+      "nombre": "Ventilador",
+      "estado": "OFF"
+    },
+    {
+      "id": "plug",
+      "nombre": "Enchufe inteligente",
+      "estado": "OFF"
+    }
+  ],
+  "reglas": [
+    {
+      "nombre": "ReglaVentilacion",
+      "activa": true
+    },
+    {
+      "nombre": "ReglaIluminacion",
+      "activa": true
+    }
+  ]
+}
